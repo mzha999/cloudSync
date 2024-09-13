@@ -1,3 +1,4 @@
 template-file-path: './dev-admin-charancha.yml'
 parameters: {}
-tags: {}
+tags: 
+  org: 'AWS'
